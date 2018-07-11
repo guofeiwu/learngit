@@ -39,3 +39,5 @@ branch dev commit message;
 the third
 the four
 
+
+fixed the bug
