@@ -15,3 +15,5 @@ Git is free software.
 
 
 branch dev commit message;
+
+branch product commit message;
