@@ -39,5 +39,9 @@ branch dev commit message;
 the third
 the four
 
+<<<<<<< Updated upstream
 
 fixed the bug
+=======
+the five
+>>>>>>> Stashed changes
